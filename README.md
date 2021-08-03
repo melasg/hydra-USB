@@ -1,2 +1,11 @@
 # hydra-USB
-What good is your massive distro archive if you can't test it everytime you think you've found the perfect laptop on sale? My solution to a GRUB + UEFI multiboot tool for multiple Linux distros on a single USB!
+TODO: 
++ 64-bit UEFI
++ legacy BIOS
++ booting from ISO files w/o backgroound services
++ SecureBoot
++ Category separation?
++ other kernels/bootable .efi files
++ update
++ install via loopback .cfg
++ drivers?
